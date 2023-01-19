@@ -1,0 +1,27 @@
+{
+  "name": "ttk-ui-npm",
+  "version": "0.1.1",
+  "description": "ssy-ui",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mqxu/ssy-ui.git"
+  },
+  "keywords": [
+    "ssy-ui",
+    "ssy",
+    "ui"
+  ],
+  "author": "mqxu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mqxu/ssy-ui/issues"
+  },
+  "homepage": "https://github.com/mqxu/ssy-ui#readme",
+  "dependencies": {
+    "font-awesome": "^4.7.0"
+  }
+}
